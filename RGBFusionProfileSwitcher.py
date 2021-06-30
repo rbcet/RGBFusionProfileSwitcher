@@ -1,6 +1,5 @@
 import os
 import subprocess
-import time
 
 RGB_FUSION_PATH = 'C:/Program Files (x86)/GIGABYTE/RGBFusion/'
 
