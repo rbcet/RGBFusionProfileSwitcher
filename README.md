@@ -1,6 +1,6 @@
 # RGBFusionProfileSwitcher
 
-Use case:  
+Example use case:  
 
 	1- Profile 1 has Color Wave.  
 	2- Profile 2 has RGB off.  
